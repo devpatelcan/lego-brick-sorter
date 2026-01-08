@@ -41,7 +41,9 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 
 <br>
 
-Feel free to view the resources used to design this system!
+**Feel free to view the resources developed to get this brick sorter come to life in this repository!**
+
+    
 
 
 
