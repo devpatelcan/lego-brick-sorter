@@ -27,12 +27,12 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 
 
 ![20260104_164957](https://github.com/user-attachments/assets/9bad4933-7b1c-4af9-a204-c22ea169d4ad)
-*Completely sorted bricks using a "COLOUR" preset.*
+*Fully sorted bricks using a "COLOUR" preset.*
 
 <br>
 
 ![20260107_183455](https://github.com/user-attachments/assets/8b31e38e-ec61-4061-80b3-b9cc13a3dd95)
-*Top-dwon view of the sorting system, including the centering tabs on conveyor belt 1 (the slower belt).*
+*Top-down view of the sorting system, including the centering tabs on conveyor belt 1 (the slower belt).*
 
 <br>
 
