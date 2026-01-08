@@ -37,7 +37,7 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 <br>
 
 ![20260104_165021](https://github.com/user-attachments/assets/b14a4339-bf87-4be7-b4f0-483441ef8342)
-*ResNet18 predeicstions in the terminal as well as archived brick images for future training to improve model accuracy.*
+*ResNet18 predictions in the terminal as well as archived brick images for future training to improve model accuracy.*
 
 <br>
 
