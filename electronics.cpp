@@ -9,7 +9,6 @@
 const char* ssid = "";
 const char* password = "";
 
-// --- PINS ---
 const int BLUE_LED = 2;         
 const int IR_BEAM_SLOW = 14;     
 const int IR_BEAM_FAST = 32;     
@@ -21,14 +20,12 @@ const int SHUTTER_PIN = 33;
 #define RXD2 16
 #define TXD2 17 
 
-// --- SERVO ---
 Servo myservo;
 const int SERVO_PIN = 15;
 const int BTN_BINS[] = {22, 23, 25, 21, 19}; 
 const int ANGLES[] = {33, 67, 127, 167, 97}; 
 const int NUM_BINS = 5;
 
-// --- SYSTEM STATE ---
 bool systemActive = false;
 bool waitingForClassification = false;
 bool isSlowBeltRunning = false;
@@ -182,4 +179,5 @@ void loop() {
             delay(250);
         }
     }
+
 }
