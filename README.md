@@ -12,7 +12,7 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 
 ## Core Capabilities
 
-* **Sub-800ms Latency**: Completes a full cycle—image capture, LAN transmission, ResNet18 inference, decision-making, and image archival—in under **800 ms**.
+* **Sub-800ms Latency**: Completes a full cycle - image capture, LAN transmission, ResNet18 inference, decision-making, and image archival - in under **800 ms**.
 * **91% Inference Accuracy**: Achieves high-reliability classification of **15 unique brick types** using a custom-made **ResNet18** architecture.
 * **Servo Diverting Gate**: Features a single servo-controlled deflection guide. By leveraging the belt's existing kinetic energy, the gate steers bricks into specific bins without the need for multiple actuators.
 * **Dual-Belt Isolation System**: Utilizes a secondary "high-speed" conveyor belt and a physical slide to singulate bricks, ensuring only one object enters the camera frame at a time.
