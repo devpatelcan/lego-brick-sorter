@@ -1,4 +1,4 @@
-# Lego AI Brick Sorter
+# Autonomous Brick Sorter for Legos
 
 
 <a href="https://www.youtube.com/watch?v=SKIDw2HNKAg">
