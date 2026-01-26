@@ -41,6 +41,12 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 
 <br>
 
+<img width="1136" height="782" alt="Brick Sorter Flowchart" src="https://github.com/user-attachments/assets/fd4720b0-574c-4dba-8ffb-62b36021aa8c" />
+
+*Flowchart for the decision-making process of the sorter.*
+
+<br>
+
 **Feel free to view the resources developed to get this brick sorter come to life in this repository!**
 
     
