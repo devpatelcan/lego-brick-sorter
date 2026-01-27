@@ -59,10 +59,7 @@ if not os.path.exists(DEBUG_DIR): os.makedirs(DEBUG_DIR)
 if os.path.exists(MODEL_PATH):
     model.load_state_dict(torch.load(MODEL_PATH, map_location=device))
     model.eval()
-    print("✅ AI Model Loaded.")
-else:
-    print(f"❌ Model not found at {MODEL_PATH}")
-    exit()
+    print("AI Model Loaded.")
 
 CLASS_NAMES = list(BRICK_ATTRIBUTES.keys())
 
@@ -104,9 +101,10 @@ def upload():
         elif SORTING_PRESET == "SLANTED":
             target_bin = BIN_MAP_SLANTED.get(attr_value, DEFAULT_BIN)
         
-    print(f"🎯 Detected: {prediction_name} | {SORTING_PRESET}: {attr_value} | -> BIN {target_bin}")
+    print(f"Detected: {prediction_name} | {SORTING_PRESET}: {attr_value} | -> BIN {target_bin}")
     
     return str(target_bin), 200
 
 if __name__ == '__main__':
+
     app.run(host='0.0.0.0', port=5000)
