@@ -47,6 +47,10 @@ This project is an autonomous sorting system that uses a ResNet18 deep learning 
 
 <br>
 
+<img width="1516" height="865" alt="Schematic" src="https://github.com/user-attachments/assets/fbf82c12-db26-4724-bc95-f1e37907c61b" />
+
+*Wiring Schematic (Excluding Camera)*
+
 **Feel free to view the resources developed to get this brick sorter come to life in this repository!**
 
     
